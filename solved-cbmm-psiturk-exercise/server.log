@@ -1,0 +1,66 @@
+[08/16/17 16:32:22] [INFO] Reading configuration file /usr/local/lib/python2.7/site-packages/psiturk/tunnel/ngrok-config
+[08/16/17 16:32:22] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[08/16/17 16:32:22] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[08/16/17 16:32:22] [INFO] Checking for update
+[08/16/17 16:32:22] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:22] [INFO] Waiting 1 seconds before reconnecting
+[08/16/17 16:32:22] [INFO] No update available
+[08/16/17 16:32:23] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:23] [INFO] Waiting 2 seconds before reconnecting
+[08/16/17 16:32:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:25] [INFO] Waiting 4 seconds before reconnecting
+[08/16/17 16:32:30] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:30] [INFO] Waiting 8 seconds before reconnecting
+[08/16/17 16:32:38] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:38] [INFO] Waiting 16 seconds before reconnecting
+[08/16/17 16:32:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:32:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:33:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:33:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:33:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:33:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:34:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:34:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:34:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:34:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:35:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:35:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:35:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:35:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:36:24] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:36:24] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:36:54] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:36:54] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:37:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:37:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:37:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:37:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:38:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:38:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:38:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:38:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:39:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:39:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:39:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:39:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:40:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:40:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:40:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:40:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:41:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:41:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:41:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:41:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:42:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:42:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:42:55] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:42:55] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:43:25] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:43:25] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:43:56] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:43:56] [INFO] Waiting 30 seconds before reconnecting
+[08/16/17 16:44:26] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[08/16/17 16:44:26] [INFO] Waiting 30 seconds before reconnecting
+[2017-08-17 14:01:26 -0400] [7499] [CRITICAL] WORKER TIMEOUT (pid:7506)
+[2017-08-17 14:01:26 -0400] [7499] [CRITICAL] WORKER TIMEOUT (pid:7508)
+[2017-08-17 14:01:26 -0400] [7499] [CRITICAL] WORKER TIMEOUT (pid:7510)

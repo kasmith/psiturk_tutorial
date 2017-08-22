@@ -205,7 +205,7 @@ var Questionnaire = function() {
 		psiTurk.saveData({
 			success: function() {
 			    clearInterval(reprompt);
-                psiTurk.computeBonus('compute_bonus', function(){finish()});
+				psiTurk.completeHIT();
 			},
 			error: prompt_resubmit
 		});
@@ -219,9 +219,7 @@ var Questionnaire = function() {
 	    record_responses();
 	    psiTurk.saveData({
             success: function(){
-                psiTurk.computeBonus('compute_bonus', function() {
-                	psiTurk.completeHIT(); // when finished saving compute bonus, the quit
-                });
+            	psiTurk.completeHIT(); // when finished saving compute bonus, the quit
             },
             error: prompt_resubmit});
 	});
